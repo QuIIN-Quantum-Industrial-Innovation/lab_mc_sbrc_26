@@ -1,15 +1,4 @@
----
-# yaml-language-server: $schema=schemas/page.schema.json
-Object type:
-    - Page
-Creation date: "2026-04-07T15:38:45Z"
-Created by:
-    - Thiago
-Links:
-    - image_1774294643220_0
-id: bafyreihnrfiuyea5vqlz6ziah5hoozu7jyytuz4a3w65phkkh4jv6jrv6y
----
-# v2 LAB 1 MC SBRC 2026   
+# LABORATÓRIO MINICURSO SBRC 2026   
  --- 
 ## Visão Geral   
 Este tutorial descreve a implantação de uma aplicação leve em **Python/Flask** que atua como a **KME (Key Management Entity - Entidade de Gerenciamento de Chaves)**.   
